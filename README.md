@@ -1,9 +1,19 @@
-- 👋 Olá, meu nome é Wagner 
-- 👀 Tenho interesse em começar uma carreira como desenvolvedor de software 
-- 🌱 Cursando desenvolvimento e análise de sistema
-- 📫 Entre em contato comigo pelo e=mail (" wagnervidal368@gmail.com ")
+# Bem-vindo ao meu Perfil! 👋
 
-<!---
-Guinhocwb/Guinhocwb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Sou Wagner Vidal, atualmente cursando **Desenvolvimento e Análise de Sistemas**.
+
+## Sobre Mim 🌟
+- 💻 Apaixonado por tecnologia e desenvolvimento de software.
+- 📚 Sempre em busca de novos aprendizados e desafios.
+- 🌱 Atualmente aprendendo desenvolvimento web e mobile.
+- 
+- ## Contato 📫
+- E-mail: [wagnervidal368@gmail.com](mailto:wagnervidal368@gmail.com)
+
+## ⚡ Curiosidades
+- 🎮 Gosto de jogar videogames no tempo livre.
+- 📖 Leituras favoritas incluem livros sobre tecnologia e ficção científica  
+---
+
+Obrigado por visitar meu perfil! 😊
+
